@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-// import './App.css';
+import './App.css';
 import Topheader from './components/Topheader/Topheader';
 import Form from './components/Form';
 import Weather from './components/Weather';
-
 
 class App extends Component {
   
